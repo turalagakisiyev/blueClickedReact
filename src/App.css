@@ -1,0 +1,16 @@
+.click{
+background-color: white;
+}
+.clicked{
+background-color: blue;
+color: white;
+}
+button{
+    width: 100px;
+    height: 50px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    
+}
